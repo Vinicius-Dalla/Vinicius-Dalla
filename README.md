@@ -3,9 +3,9 @@
 
 - Atualmente estou aprendendo **Python e Power BI**
 
-- Me pergunte sobre **SQL, Python, Power BI e Excel**
+   **SQL, Python, Power BI e Excel**
 
-- Você me acha **vdzmello@gmail.com**
+- E-mail: **vdzmello@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

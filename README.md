@@ -3,8 +3,6 @@
 
 - Atualmente estou aprendendo **Python e Power BI**
 
-   **SQL, Python, Power BI e Excel**
-
 - E-mail: **vdzmello@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

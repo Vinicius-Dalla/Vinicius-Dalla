@@ -1,4 +1,4 @@
-<h1 align="center">Olá👋, Eu sou o Vinicius.</h1>
+<h1 align="center">Olá, Eu sou o Vinicius.</h1>
 
 Atualmente estou aprendendo **Python e Power BI**
 

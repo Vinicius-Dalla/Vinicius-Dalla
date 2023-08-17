@@ -1,9 +1,9 @@
 <h1 align="center">Olá👋, Eu sou o Vinicius.</h1>
 <h3 align="center">Foco, Consistência e Disciplina.</h3>
 
-- Atualmente estou aprendendo **Python e Power BI**
+Atualmente estou aprendendo **Python e Power BI**
 
-- E-mail: **vdzmello@gmail.com**
+E-mail: **vdzmello@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">

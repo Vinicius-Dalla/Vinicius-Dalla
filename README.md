@@ -1,6 +1,6 @@
 <h1 align="center">Olá, Eu sou o Vinicius.</h1>
 
-Atualmente estou estudando **Python e Power BI**
+Atualmente estou estudando **SQL, Python e Power BI**
 
 E-mail: **vdzmello@gmail.com**
 
